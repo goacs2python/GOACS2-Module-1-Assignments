@@ -5,7 +5,8 @@ Please choose 8 of the problems from our assignment page to complete.
 ---
 
 ### Instructions
-- Write the code for each program in the corresponding file in the Module 1 folder.
+- Create a separate file for each program in the corresponding file in the Module 1 folder.
+- Name each file according to the name on the assignment page.
 - In `completedproblems.md`, list the names of each of the problems you have completed
 and would like graded
 - When you are finished, be sure to COMMIT and PUSH your code to GitHub
